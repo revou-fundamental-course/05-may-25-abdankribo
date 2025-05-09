@@ -79,10 +79,17 @@
   }
   
   .image-placeholder {
-    background-color: #e0e0e0;
-    height: 200px;
+    background-color: #000000;
+    height: 30%;
+    width: 100%;
     border-radius: 10px;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .image-pacar{
+    height: 300px;
+    width: 100%;
+    border-radius: 10px;
   }
   
   blockquote {
